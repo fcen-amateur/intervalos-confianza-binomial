@@ -32,7 +32,7 @@ el mismo efecto.
   - `parametros.R`: parametrización de la rutina principal
   - `principal.R`: Usando `intervalos_confianza_binomial.R` y `parametros.R`,
       genera las MA e IC requeridos y sintetiza los resultados.
-- bibliografia/`: documentación de las librerías utilizadas y _papers_ relevantes
+- `bibliografia/`: documentación de las librerías utilizadas y _papers_ relevantes
   - `referencia-dplyr.pdf`: Hoja de referencia de la librería `dplyr` para
       manipulación de datos.
   - `referencia-purrr.pdf`: Hoja de referencia de la librería `purrr` de
