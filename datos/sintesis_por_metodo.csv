@@ -1,0 +1,5 @@
+nombre,longitud_esperada,prob_cobertura
+asintotico_cuadratico,0.11838368784361122,0.9375
+asintotico_slutsky,0.09143699433415507,0.8125
+bootstrap,0.08474999999999999,0.8125
+clopper,0.1265008965516648,0.9375
