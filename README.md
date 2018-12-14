@@ -1,5 +1,7 @@
 # intervalos-confianza-binomial
 
+Este repositorio contiene el código, bibliografía y documentación referida al ejercicio "para hacer con la computadora" de la Práctica 6 de Estadística Teórica C2-2018. **El informe relevante se puede encontrar en [este link](https://docs.google.com/document/d/1tLJIbpKfefpAp7ktfaRc9lBpFb0ghXxMJMkYcUqvOjM/edit?usp=sharing)**.
+
 ## Introducción
 Se implementaron y evaluaron 4 métodos para generar el intervalo de confianza del
 parámetro _p_ de una muestra aleatoria _X_ compuesta de _k_ observaciones de
